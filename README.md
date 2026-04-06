@@ -5,7 +5,7 @@
 <body class="article">
 <div class="container">
     <h1>MIFARE Crypto1 Nested-auth attack deeper-dive</h1>
-    <img src="bitmap.png">
+    <img src="screen.png">
     <p><h3>Alternative title: How I did something in 2 months that some random Eastern-European did in one afternoon.</h3>
 
         I'm going to be trying to explain the nested authentication attack on a deeper level, showing you why it
