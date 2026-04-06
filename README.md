@@ -6,11 +6,10 @@
 <div class="container">
     <h1>MIFARE Crypto1 Nested-auth attack deeper-dive</h1>
     <img src="screen.png">
-    <p><h3>Alternative title: How I did something in 2 months that some random Eastern-European did in one afternoon.</h3>
-
+        <h3>Alternative title: How I did something in 2 months that some random Eastern-European did in one afternoon.</h3>
+        <p>
         I'm going to be trying to explain the nested authentication attack on a deeper level, showing you why it
         works.<br>
-
         A big challenge in writing this article is to present the whiteboard of all the required knowledge in a
         digestible
         manner that is not too dry, but since this is the deep dive, it will necessarily be a long article.</p>
