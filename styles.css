@@ -1,0 +1,82 @@
+body {
+    background: #0d1117;
+    color: #e6edf3;
+    font-family: system-ui, sans-serif;
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+/* Headings */
+h1,
+h2 {
+    color: #58a6ff;
+}
+
+/* Blockquote */
+.blockquote {
+    border-left: 4px solid #58a6ff;
+    padding-left: 12px;
+    color: #9da7b3;
+    font-style: italic;
+}
+
+/* Code blocks */
+.code {
+    background: #161b22;
+    padding: 10px;
+    font-family: monospace;
+    display: block;
+    margin: 10px 0;
+}
+
+/* Inline code */
+.code-inline {
+    background: #161b22;
+    padding: 2px 6px;
+    font-family: monospace;
+    border-radius: 4px;
+}
+
+/* Highlights */
+.highlight {
+    color: #79c0ff;
+    font-weight: 500;
+}
+
+/* Accent text */
+.accent {
+    color: #f2cc60;
+}
+
+/* Muted text */
+.muted {
+    color: #8b949e;
+}
+
+/* Key coloring */
+.keyA {
+    color: #ff7b72;
+    font-weight: bold;
+}
+
+.keyB {
+    color: #a371f7;
+    font-weight: bold;
+}
+
+/* Newly generated bit */
+.bit-new {
+    background: #238636;
+    color: white;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    margin: 15px 0;
+    border-radius: 6px;
+}
