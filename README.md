@@ -644,7 +644,7 @@
     <ol>1. <b>LFSR rollback and candidate generation</b>
     <ul> c++ -> generatePossibleKeys(), findKey()</ul></ol>
     <p> Here is a battered rendition of the attack - missing the minutae of function calls - however I think it illustrates the flow.</p>
-    <img src = "bitmap.png">
+    <img src = "screen.png">
     <h2>Nonce distance</h2>
     <p>Our nonce distance calculating function starts off by resetting the state of the card and reader, to initiate a brand-new authentication state. It establishes an initial correct state to a known sector.</p>
     <img src="nested1.png">
