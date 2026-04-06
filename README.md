@@ -1,8 +1,5 @@
-# sublime-elephant.github.io
-
 <head>
     <link rel="stylesheet" href="styles.css">
-    <title>bruh</title>
 </head>
 
 <body class="article">
