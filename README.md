@@ -677,8 +677,5 @@
     <img src="fullsolve.png">
     <p>This was a very fun project that took me some time, but I learned a lot. Programming wise, I have never written firmware before, and it's probably obvious, however, I am glad I chose to do this the hard way and stuck with it rather than just buying a ProxMark3 and firing off some script made by someone else. It's much more satisfying this way.</p>
     <p> And to those who know CAD, MAD and the Gallagher application layer in MIFARE: Shush. Let me have my moment</p>
-
-    
-</p>
 </div>
 </body>
